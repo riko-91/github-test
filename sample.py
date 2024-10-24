@@ -2,6 +2,6 @@
 
 print("Hello world")
 
-print("hoge hoge")
+print("hoge oge")
 
 print("shooooooooooooow")
